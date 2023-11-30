@@ -1,0 +1,1 @@
+d5aa9fbf463d13092ee4c75299fd72f8be9341ee5cc8ad57603d887bfef03dc86c2c20f8366bf57c416eb1095f547ed5bbd0af13c9aec581dee8000600285b3a  sensu-check-statserv.tar.gz
